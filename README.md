@@ -1,4 +1,3 @@
-# TP1
 ## (i) o objetivo que será abordado no trabalho; 
 
 O objetivo que será tratado nesse trabalho, será o **4°objetivo**, dos objetivos selecionados para um desenvolvimento sustentável no brasil: Educação de qualidade.
