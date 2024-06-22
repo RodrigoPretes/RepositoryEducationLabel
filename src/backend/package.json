@@ -1,0 +1,22 @@
+{
+  "name": "projeto_educacao_infantil",
+  "version": "1.0.0",
+  "description": "projeto_educacao_infantil",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoPretes/RepositoryEducationLabel.git"
+  },
+  "author": "rodrigo-pretes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoPretes/RepositoryEducationLabel/issues"
+  },
+  "homepage": "https://github.com/RodrigoPretes/RepositoryEducationLabel#readme"
+}
